@@ -1,5 +1,7 @@
 # arduino-buzzer-slovenian-anthem
 
+Slovenian anthem played on piezzo buzzer controlled with arduino.
+
 ## Components
 - Buzzer
 - Arduino uno
